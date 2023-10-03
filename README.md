@@ -15,7 +15,7 @@ En este repositorio podras encontrar una serie de notebooks con apuntes sobre ma
 
 | Link de descarga | Renombrar a | Se utiliza en |
 | --- | --- | --- |
-| [cars](https://www.kaggle.com/datasets/lepchenkov/usedcarscatalog) | cars | [Tipos de datos](./estadistica_descriptiva/tipos_de_datos.ipynb)
+| [cars](https://www.kaggle.com/datasets/lepchenkov/usedcarscatalog) | cars | [Tipos de datos](./estadistica_descriptiva/tipos_de_datos.ipynb), [Medidas de tendencia central](./estadistica_descriptiva/medidas_centrla.ipynb), [Medidas de dispersión](./estadistica_descriptiva/medidas_dispersion.ipynb), <br>[Procesamiento de datos numéricos](./estadistica_descriptiva/procesamiento-datos-numericos.ipynb), [Procesamiento de datos categóricos](./estadistica_descriptiva/procesamiento-datos-categoricos.ipynb) |
 
 
 Cualquier feedback o contribución es bien recibida.
