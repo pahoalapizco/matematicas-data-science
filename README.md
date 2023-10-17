@@ -25,4 +25,5 @@ En este repositorio podras encontrar una serie de notebooks con apuntes sobre ma
 
 Cualquier feedback o contribución es bien recibida.
 
-Made with :purple_heart: by Paho
+
+<h3 align="center"> Made with 💜 by Paho </h3>
