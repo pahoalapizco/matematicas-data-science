@@ -21,6 +21,7 @@ En este repositorio podrás  encontrar una serie de notebooks con apuntes sobre 
 | --- | --- | --- |
 | [cars](https://www.kaggle.com/datasets/lepchenkov/usedcarscatalog) | cars | [Tipos de datos](./estadistica_descriptiva/tipos_de_datos.ipynb), [Medidas de tendencia central](./estadistica_descriptiva/medidas_centrla.ipynb), [Medidas de dispersión](./estadistica_descriptiva/medidas_dispersion.ipynb), <br>[Procesamiento de datos numéricos](./estadistica_descriptiva/procesamiento-datos-numericos.ipynb), [Procesamiento de datos categóricos](./estadistica_descriptiva/procesamiento-datos-categoricos.ipynb) |
 | [s057](https://seattlecentral.edu/qelp/sets/057/057.html) | s057 | [Distribución continua](./probabilidad/distribucion_continua.ipynb)
+| [economia-y-turismo-en-el-centro-historico](https://datos.cdmx.gob.mx/dataset/economia-y-turismo-en-el-centro-historico) | econdata | [Funciones de muestreo](./estadistica_inferencial/01_funciones_muestreo.ipynb) |
 
 
 Cualquier feedback o contribución es bien recibida.
