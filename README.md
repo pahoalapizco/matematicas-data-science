@@ -10,7 +10,7 @@ En este repositorio podrás  encontrar una serie de notebooks con apuntes sobre 
 
 ## ✋ Antes de empezar
 1. Crear la carpeta `data` en la raíz del proyecto
-2. Descargar los datasets utilizados en los notebooks y colocarlos en la carpeta `data` previamente creada.
+2. Descargar los datasets utilizados en los notebooks y colocalos en la carpeta `data` previamente creada.
 3. Renombrar los archivos con el nombre que está en el código.
 4. Para el ejercicio de [Distribución continua](./probabilidad/distribucion_continua.ipynb) es necesario instalar la dependencia `xlrd` en el entorno virtual de tu preferencia, en mi caso yo lo hice con anaconda :snake:.
       ```bash
